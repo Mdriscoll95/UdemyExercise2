@@ -1,0 +1,15 @@
+/Users/michaeldriscoll/Desktop/repos/UdemyExercise2/UdemyExercise2/bin/Debug/net7.0/UdemyExercise2
+/Users/michaeldriscoll/Desktop/repos/UdemyExercise2/UdemyExercise2/bin/Debug/net7.0/UdemyExercise2.deps.json
+/Users/michaeldriscoll/Desktop/repos/UdemyExercise2/UdemyExercise2/bin/Debug/net7.0/UdemyExercise2.runtimeconfig.json
+/Users/michaeldriscoll/Desktop/repos/UdemyExercise2/UdemyExercise2/bin/Debug/net7.0/UdemyExercise2.dll
+/Users/michaeldriscoll/Desktop/repos/UdemyExercise2/UdemyExercise2/bin/Debug/net7.0/UdemyExercise2.pdb
+/Users/michaeldriscoll/Desktop/repos/UdemyExercise2/UdemyExercise2/obj/Debug/net7.0/UdemyExercise2.csproj.AssemblyReference.cache
+/Users/michaeldriscoll/Desktop/repos/UdemyExercise2/UdemyExercise2/obj/Debug/net7.0/UdemyExercise2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaeldriscoll/Desktop/repos/UdemyExercise2/UdemyExercise2/obj/Debug/net7.0/UdemyExercise2.AssemblyInfoInputs.cache
+/Users/michaeldriscoll/Desktop/repos/UdemyExercise2/UdemyExercise2/obj/Debug/net7.0/UdemyExercise2.AssemblyInfo.cs
+/Users/michaeldriscoll/Desktop/repos/UdemyExercise2/UdemyExercise2/obj/Debug/net7.0/UdemyExercise2.csproj.CoreCompileInputs.cache
+/Users/michaeldriscoll/Desktop/repos/UdemyExercise2/UdemyExercise2/obj/Debug/net7.0/UdemyExercise2.dll
+/Users/michaeldriscoll/Desktop/repos/UdemyExercise2/UdemyExercise2/obj/Debug/net7.0/refint/UdemyExercise2.dll
+/Users/michaeldriscoll/Desktop/repos/UdemyExercise2/UdemyExercise2/obj/Debug/net7.0/UdemyExercise2.pdb
+/Users/michaeldriscoll/Desktop/repos/UdemyExercise2/UdemyExercise2/obj/Debug/net7.0/UdemyExercise2.genruntimeconfig.cache
+/Users/michaeldriscoll/Desktop/repos/UdemyExercise2/UdemyExercise2/obj/Debug/net7.0/ref/UdemyExercise2.dll
